@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Book Store Application card is displayed</description>
+   <name>Verify Book Store Application card is displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdde9012-9ef6-41e7-9b27-f024be3266ac</testCaseGuid>
+</TestCaseEntity>

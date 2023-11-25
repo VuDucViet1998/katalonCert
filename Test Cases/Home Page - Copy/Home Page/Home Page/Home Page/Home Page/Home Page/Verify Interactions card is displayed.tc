@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Interactions card is displayed</description>
+   <name>Verify Interactions card is displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>344281f3-7f07-4e89-8e0c-95222f5e1794</testCaseGuid>
+</TestCaseEntity>

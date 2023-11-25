@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Elements card is displayed</description>
+   <name>Verify Elements card is displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7814e5fb-5d2e-4dfe-b150-c68131906030</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Home Page is displayed</description>
+   <name>Verify Home Page is displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f8c58ba-a718-4e3a-8e5e-6f687ee07aa6</testCaseGuid>
+</TestCaseEntity>

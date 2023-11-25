@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Elements card is displayed</description>
+   <name>Verify Alerts Frame Windows card is displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17e7bfda-55ba-4348-b035-501b63cd1f0d</testCaseGuid>
+</TestCaseEntity>
