@@ -19,3 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.acceptAlert()
 
+WebUI.waitForElementClickable(findTestObject(null), 0)
+
+WebUI.acceptAlert()
+
+WebUI.getAlertText()
+
+Mobile.checkElement(findTestObject(null), 0)
+
+Windows.clearText(findWindowsObject(null))
+
+WS.comment('')
+
