@@ -19,4 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Test Cases/Home Page/Verify Home Page is displayed'), null)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Home Page/h5_cardName',['param':'Elements']))
+WebUI.takeScreenshotAsCheckpoint('current_viewport')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Home Page/h5_cardName', [('param') : 'Elements333']))
